@@ -1,0 +1,12 @@
+git commit -a -m "second commit"
+
+git log ->for use show logs
+
+git status -> for show git status
+
+git remote add original ->link
+
+git branch 
+git branch-r -> remot branches
+git branc -a -> local branches
+git checkout branch name -> switch to branch
