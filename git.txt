@@ -10,3 +10,8 @@ git branch
 git branch-r -> remot branches
 git branc -a -> local branches
 git checkout branch name -> switch to branch
+
+git branch -D **** -> delete branch
+git push original --delete ##### -> delete remote branch 
+git branch Qa-branch -> create branch
+git push original -u Qa-branch -> push to git
