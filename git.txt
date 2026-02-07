@@ -15,3 +15,33 @@ git branch -D **** -> delete branch
 git push original --delete ##### -> delete remote branch 
 git branch Qa-branch -> create branch
 git push original -u Qa-branch -> push to git
+
+
+
+
+git log 
+git checkout **** -> commit first 4 digit and got to in this
+after you can create branch and you can develop
+
+git fetch -> remote repo eke eva local ekata update venwa but file pennaen na code eke
+
+git merge - > remote repo eke eva update venwa local ekata 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
